@@ -1,0 +1,3 @@
+# This will run the Orca Data Extraction Bash script daily
+15 0 * * * orca /a1/orca_common_job_files/2022051/zdgps-auto/zdgps-auto.csh
+
